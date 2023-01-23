@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "@improbable-eng/grpc-web": "^0.15.0",
+    "@improbable-eng/grpc-web-node-http-transport": "^0.15.0",
+    "dotenv": "^16.0.3",
+    "google-protobuf": "^3.21.2",
+    "grpc": "^1.24.11"
+  }
+}
